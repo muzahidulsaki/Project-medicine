@@ -9,7 +9,7 @@ public:
     void displayMedicine1()
     {
         cout<< ("\n");
-		cout<< ("|--------------------------------------|\n");
+	cout<< ("|--------------------------------------|\n");
         cout<< ("|     Welcome to our Tablet section    |\n");
         cout<< ("|--------------------------------------|\n");
         cout<< ("\n\n\n");
@@ -78,7 +78,7 @@ public:
     void displayMedicine2()
     {
         cout<< ("\n");
-		cout<< ("|---------------------------------|\n");
+	cout<< ("|---------------------------------|\n");
         cout<< ("|  Welcome to our Syrup section   |\n");
         cout<< ("|---------------------------------|\n");
         cout<< ("\n");
@@ -150,7 +150,7 @@ public:
     void displayMedicine3()
     {
         cout<< ("\n");
-		cout<< ("|------------------------------------------|\n");
+	cout<< ("|------------------------------------------|\n");
         cout<< ("|    Welcome to our First Aid Kit section  |\n");
         cout<< ("|------------------------------------------|\n");
         cout<< ("\n\n\n");
